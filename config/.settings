@@ -1,0 +1,19 @@
+{
+    "username": "tural.sadik@integration.com.tr", 
+    "environment": "production", 
+    "project_name": "tural.sadik.integration", 
+    "workspace": "/home/tural/Desktop/salesforce", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "FWG46WCL5GQWHDEGCG5FQCGYJ2Y2NS6X", 
+    "metadata_container": "1dc24000000CcHKAA0", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "CustomObject", 
+        "Profile", 
+        "StaticResource"
+    ]
+}
